@@ -1,2 +1,2 @@
 # Msc-projects
-These are the projects completed and influenced during my studies of Artificial Intelligence and Data Science at Hull University.
+This project develops a multi-modal machine learning approach that fuses photometric data and visual imagery to significantly improve the accuracy of inferring galaxies' cosmological redshifts and distances.
